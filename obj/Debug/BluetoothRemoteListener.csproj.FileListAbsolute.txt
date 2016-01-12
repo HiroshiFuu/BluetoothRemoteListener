@@ -1,0 +1,21 @@
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\obj\Debug\BluetoothRemoteListener.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\obj\Debug\ThirtyTwoFeet.RemoteListenerForm.resources
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\obj\Debug\BluetoothRemoteListener.csproj.GenerateResource.Cache
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\bin\Debug\BluetoothRemoteListener.exe.config
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\bin\Debug\BluetoothRemoteListener.exe
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\bin\Debug\BluetoothRemoteListener.pdb
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\bin\Debug\InTheHand.Net.Personal.dll
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\bin\Debug\InTheHand.Net.Personal.xml
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\obj\Debug\BluetoothRemoteListener.exe
+C:\Program Files (x86)\32feet.NET\Samples\BluetoothRemote\BluetoothRemoteListener\obj\Debug\BluetoothRemoteListener.pdb
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\bin\Debug\BluetoothRemoteListener.exe.config
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\obj\Debug\BluetoothRemoteListener.exe
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\obj\Debug\BluetoothRemoteListener.pdb
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\bin\Debug\BluetoothRemoteListener.exe
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\bin\Debug\BluetoothRemoteListener.pdb
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\obj\Debug\BluetoothRemoteListener.csproj.GenerateResource.Cache
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\obj\Debug\ThirtyTwoFeet.BluetoothCommForm.resources
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\obj\Debug\ThirtyTwoFeet.Properties.Resources.resources
+C:\Users\FENG0\Google Drive\BluetoothRemoteListener\obj\Debug\BluetoothRemoteListener.csprojResolveAssemblyReference.cache
