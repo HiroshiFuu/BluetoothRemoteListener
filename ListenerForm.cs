@@ -19,7 +19,7 @@ namespace ThirtyTwoFeet
 		private BluetoothListener bl;
 
         //unique service identifier
-        private Guid service = new Guid("{00001101-0000-1000-8000-00805F9B34FB}");
+        private Guid PANUService = new Guid("{00001101-0000-1000-8000-00805F9B34FB}");
 
         private delegate void setButtonEnabledHandler(bool enabled);
         private setButtonEnabledHandler setButtonEnabled;
@@ -113,7 +113,7 @@ namespace ThirtyTwoFeet
             this.btnListen.Location = new System.Drawing.Point(50, 15);
             this.btnListen.Name = "btnListen";
             this.btnListen.Size = new System.Drawing.Size(82, 23);
-            this.btnListen.TabIndex = 2;
+            this.btnListen.TabIndex = 1;
             this.btnListen.Text = "Start to Listen";
             this.btnListen.UseVisualStyleBackColor = true;
             this.btnListen.Click += new System.EventHandler(this.btnListen_Click);
@@ -128,7 +128,7 @@ namespace ThirtyTwoFeet
             this.rtbRcvMsg.Location = new System.Drawing.Point(342, 78);
             this.rtbRcvMsg.Name = "rtbRcvMsg";
             this.rtbRcvMsg.Size = new System.Drawing.Size(321, 358);
-            this.rtbRcvMsg.TabIndex = 3;
+            this.rtbRcvMsg.TabIndex = 8;
             this.rtbRcvMsg.Text = "";
             this.rtbRcvMsg.TextChanged += new System.EventHandler(this.rtbMsg_TextChanged);
             this.rtbRcvMsg.DoubleClick += new System.EventHandler(this.rtbMsg_DoubleClick);
@@ -231,7 +231,7 @@ namespace ThirtyTwoFeet
                 }
                 else btnListen.Enabled = false;
             }
-            bl = new BluetoothListener(service);
+            bl = new BluetoothListener(PANUService);
         }
 
 		private void BluetoothCommForm_Closing(object sender, System.ComponentModel.CancelEventArgs e)
